@@ -6,7 +6,7 @@ Tor (The Onion Router) is a free software that enables anonymous communication o
 
 Follow these commands in your terminal to download and install Tor:
 
-1. Install the Tor Browser Launcher
+1.Install the Tor Browser Launcher
   ```bash
   sudo apt install torbrowser-launcher
   ```
